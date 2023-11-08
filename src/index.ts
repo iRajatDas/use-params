@@ -1,3 +1,1 @@
-const additon = (a: number, b: number): number => {
-  return a + b;
-};
+const hello = (name: string) => `Hello ${name}!`;
